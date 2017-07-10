@@ -1,0 +1,9 @@
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Data.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Models.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild-github\firstRepo\matthew-wilkinson-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.BLL\obj\Debug\FlooringMastery.BLL.pdb
